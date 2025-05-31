@@ -26,26 +26,31 @@ This project demonstrates a simple **gas detection system** using the **MQ2 gas 
 ```bash```
 git clone https://github.com/Elisee-M/Gas-monitoring-system.git
 
-💾 2. Upload Code to Arduino
+### 💾 2. Upload Code to Arduino
+
 Open Gas_Sensor_with_LCD.ino in Arduino IDE
 
 Connect your MQ2 sensor and 20x4 LCD as per the Proteus design
 
 Upload the code to your Arduino Uno
 
-🧪 3. Run Proteus Simulation
+###  🧪 3. Run Proteus Simulation
+
 Open LCD_with_MQ2.pdsprj using Proteus
 
 Simulate and observe gas concentration output on the LCD
 
 📚 Libraries & Resources Used
+
 📦 MQ2 Sensor Library for Proteus
+
 🔗 https://electronicstree.com/mq2-gas-sensor-in-proteus/
 
 📦 Arduino Uno R3 Library for Proteus
+
 🔗 https://electronicstree.com/new-arduino-uno-r3-free-proteus-library/
 
-💻 Project Repository
+💻 Project Repository: 
 🔗 https://github.com/Elisee-M/Gas-monitoring-system
 
 🖼️ Optional Screenshot
@@ -59,6 +64,5 @@ Add a screenshot of your Proteus simulation output here for better visualization
 📄 License
 This project is open-source and free to use under the MIT License.
 
+
 💡 Created with passion by Elisee-M
-
-
