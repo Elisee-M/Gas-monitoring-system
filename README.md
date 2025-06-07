@@ -66,3 +66,5 @@ This project is open-source and free to use under the MIT License.
 
 
 💡 Created with passion by Elisee-M
+
+Let's vibin
